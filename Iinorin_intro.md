@@ -10,3 +10,5 @@
 iinorin/iinorin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- 🛠️ Tools I use... 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,maven,hibernate,py,django,rails,nodejs,react,bootstrap,vscode,bots,idea,github,emotion,mysql,ps,pr,ae,ai,au,xd,stackoverflow,twitter,instagram,linkedin,discord)](https://skillicons.dev)
